@@ -39,7 +39,7 @@ Most tools flood you with **fake, wildcard, and dead subdomains**.
 
 ## 📦 Requirements
 
-```bash
+"bash
 sudo apt update
 sudo apt install -y curl parallel
 go install github.com/projectdiscovery/dnsx/cmd/dnsx@latest
